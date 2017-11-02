@@ -87,3 +87,22 @@ img {
   height: auto;
   border: 0;
 }
+
+#gl-finder {
+  padding-bottom: 0;
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+}
+
+#gl-finder a:link, #gl-finder a:visited {
+  color: $brandcol4;
+}
+
+#gl-finder a:hover, #gl-finder a:active {
+  color: $brandcol6;
+}
+
+.gl-definition {
+  margin-bottom: 20px;
+}
