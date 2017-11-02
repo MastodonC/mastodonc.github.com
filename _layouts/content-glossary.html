@@ -48,7 +48,7 @@
                             {% for definition_hash in definitions %}
                             <div class="gl-definition">
                                 <h3>{{ definition_hash.term }}</h3>
-                                <div>{{ definition_hash.definition }}</div>
+                                <div>{{ definition_hash.definition | markdownify }}</div>
                             </div>
                             {% endfor %}
                         </div>

@@ -22,7 +22,7 @@ C:
    definition: A CSV file is a Comma Separated Values file which allows data to be saved in a table structured format. CSVs look similar to a normal spreadsheet, but are reliably usable in more contexts.
 D:
   - term: Data
-    definition: “A set of values of qualitative or quantitative variables.” (wikipedia). Information in raw form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects.  In the context of computing data can be thought of as information that is transmitted or stored.
+    definition: “A set of values of qualitative or quantitative variables.” ([Wikipedia](https://en.wikipedia.org/wiki/Data)). Information in raw form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects.  In the context of computing data can be thought of as information that is transmitted or stored.
   - term: Database
     definition: A digital collection of data and the structure around which the data is organized.
   - term: Data Science
