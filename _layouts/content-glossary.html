@@ -24,7 +24,12 @@
                     <ul class="grid" id="gl-finder">
                         {% for glossary_hash in site.data.glossary %}
                         {% assign letter = glossary_hash[0] %}
+                        {% assign definitions = glossary_hash[1] %}
+                        {% if definitions %}
                         <a href="#gl-{{ letter }}">{{ letter }}</a>
+                        {% else  %}
+                        <span>{{ letter }}</span>
+                        {% endif %}
                         {% endfor %}
                     </ul>
                     <hr/>

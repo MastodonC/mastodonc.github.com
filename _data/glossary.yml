@@ -48,6 +48,8 @@ H:
 I:
   - term: IOT - Internet of Things
     definition: The connection of ordinary, everyday devices to the internet. Connection of everyday physical objects and products to the Internet so that they can relate to other systems or their data can be used and analysed.
+J: false
+K: false
 L:
   - term: Linked Data
     definition: A method of publishing structured data so that it can be interlinked and become more useful.
@@ -75,6 +77,7 @@ P:
     definition: A place where data is published for use by others.
   - term: Python
     definition: Python is a widely used high-level programming language for general-purpose programming
+Q: false
 R:
   - term: R
     definition: R is an open source programming language and software environment for statistical computing.
@@ -100,6 +103,9 @@ V:
     definition: Representing data, or relationships between data, in a visual manner so as to communicate a finding, relationship or story.
   - term: Velocity
     definition: The speed at which the data is created, stored, analysed and visualized.
+W: false
 X:
   - term: XML
     definition: XML stands for Extensible Markup Language (XML).
+Y: false
+Z: false
