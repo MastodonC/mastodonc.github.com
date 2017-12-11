@@ -15,6 +15,17 @@ With perfect timing for our launch, on Tuesday Greenpeace <a href="http://www.gr
 
 We also had a great time on Wednesday at <a href="http://cloudcamp.org/london">CloudCamp London</a>, where the audience was full of interesting people and the Internet-of-Things themed talks were futuristically cool, even though not in our direct business area. I loved their red-carding rule for vendor pitches in particular, which worked so well that one of the panel introduced himself as just 'from one of the Evil Empires'.
 
+<!--[if lte IE 8]>
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: '3461032',
+    formId: 'daaaefd4-fad6-4f37-b781-70170c57494e',
+    css: ''
+  });
+</script>
 
 
 
