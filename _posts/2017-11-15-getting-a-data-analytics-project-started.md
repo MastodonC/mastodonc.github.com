@@ -11,6 +11,17 @@ The excitement about data needs to be balanced with an uncomfortable truth. Most
 
 <!--more-->
 
+<!--[if lte IE 8]>
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: '3461032',
+    formId: 'a4c40717-39d9-4932-b32e-9d3dcc96be70'
+  });
+</script>
+
 ## Why are data analysis projects so hard to get right?
 
 [Spending on data analytics software ](https://www.idc.com/getdoc.jsp?containerId=prUS42371417)is expected to hit $150Billion in 2017, a 12.4% increase over 2016. But that doesn’t mean that returns have kept pace. If Gartner’s estimates are accurate, and 60%-85% of data projects do indeed fail, billions of dollars each year are being wasted. And that’s without adding in other investments such as consultancy services, training and hardware.
@@ -45,17 +56,7 @@ Whilst data might seem like a new phenomenon, in reality many of the tools and t
 
 Yes, existing patterns might point to a potential route to success, but projects that promise quick results, with little effort or input, using off-the-shelf solutions, tend to result in disappointment.  Similarly the belief that hunting in data using magic tools will result in outstanding results is one that regularly results in failure.
 
-<!--[if lte IE 8]>
-  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-  <![endif]-->
-  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-    portalId: '3461032',
-    formId: 'a4c40717-39d9-4932-b32e-9d3dcc96be70',
-    css: ''
-  });
-</script>
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2d5848d9-00d4-4807-8040-ee03471d6f27"><span class="hs-cta-node hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27" id="hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-2d5848d9-00d4-4807-8040-ee03471d6f27" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27.png"  alt="Download a free checklist: Getting a Data Project Started"/></a><!-- end HubSpot Call-to-Action Code -->
 
 ## What can you do to avoid data project failure?
 
