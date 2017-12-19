@@ -52,7 +52,8 @@ Yes, existing patterns might point to a potential route to success, but projects
 <script>
   hbspt.forms.create({
     portalId: '3461032',
-    formId: 'a4c40717-39d9-4932-b32e-9d3dcc96be70'
+    formId: 'a4c40717-39d9-4932-b32e-9d3dcc96be70',
+    css: ''
   });
 </script>
 
