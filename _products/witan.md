@@ -1,7 +1,7 @@
 ---
 layout: witan
 title: witan
-subtitle:  "Our city decision-making platform"
+subtitle:  "The enabler of data-driven organisations"
 download: product-witan.pdf
 casestudy:
   - defra
@@ -13,65 +13,82 @@ moreclients:
   - est
   - nhs
   - defra
-overview: "Witan is a new platform to support decision-making for cities.
-Developed in partnership with the Greater London Authority and now deployed with London’s 33 boroughs, it provides modelling tools and data management processes to help solve real city planning challenges.
-"
+overview: "In a fast-changing world it’s more important than ever to put your data to work. Witan is a suite of cloud-based tools that allow you to take advantage of new data science techniques that will get your quicker answers and help you develop better plans.
+<br/ ><br/ >
+Witan enables you to securely collaborate,manage, and get insights from data. Together with Mastodon C’s technical and domain expertise, with Witan you’ll get results faster and have more confidence in the decisions you make."
 
 benefits:
-  - title: "Joined-up modelling"
-    image: icon-modelling.svg
-    content: "A shared web-based system makes it much easier to collaborate across interdependent teams whose models need to match up, for example housing and population."
-  - title: "Improved decision making"
-    image: icon-decision.svg
-    content: "Senior decision makers can see and stress-test detailed versions and variations of projections, to help them make more data-driven decisions."
-  - title: "Try out new scenarios"
-    image: icon-scenarios.svg
-    content: "Witan makes it fast and straightforward to test what-if scenarios where assumptions may change, for example seeing the implications of an increase in immigration for an area."
-  - title: "Carefully control access"
+  - title: "Witan Datastore"
     image: icon-access.svg
-    content: "Security controls mean that models can be seen and shared only among the colleagues who need them, without needing to be completely locked away from everyone."
+    content: "The data governance and secure storage hub that gives you total control over your data infrastructure. Save money, get more done, and make better decisions."
+  - title: "Witan Collect+Share"
+    image: icon-scenarios.svg
+    content: "Spend more time and resources developing critical reports and insights, and less time chasing people to contribute spreadsheets, data and information."
+  - title: "Witan Models"
+    image: icon-modelling.svg
+    content: "Transform the work of service and budget planning from a resource-intensive yearly chore to a powerful source of on-demand information and insight for policy making, planning and transformation."
+  - title: "Witan Strategic"
+    image: icon-decision.svg
+    content: "When combined, the Witan suite gives you a powerful data infrastructure  in one, easy to manage bundle, with multiple models, data governance and curation, increased processing and storage, and expert support."
 
 features:
-  - title: "State of the art models"
+  - title: "Smooth data acquisition"
     image: exampleicon.png
-    content: "The platform will come pre-populated with models, which can be customised depending on your requirements. These will include demography, employment, local planning, waste and energy models."
-  - title: "Big data and small"
+    content: "Only give users the access they need and are permitted to have by policy, regulation and the law. For example only sharing metadata with one user, whilst giving full dataset access to another."
+  - title: "Secure access to data"
     image: exampleicon.png
-    content: "The Witan platform is built to handle large, fast-moving data sets such as sensor data, as well as small, less frequently updated data such as housing projections."
-  - title: "Join the community"
+    content: "Datastore makes it easy to conform to data legislation like GDPR, organisational policies and ethical standards by giving you control over who can access your data."
+  - title: "Controlled data sharing"
     image: exampleicon.png
-    content: "Witan is more than just a place to keep and analyse data. It’s a place to find other people who can help you find and use data. Through Witan, you will be able to get in contact with people around the world who are looking to solve similar city planning challenges."
-  - title: "Customer support"
+    content: "With collect + share you can easily request data from multiple colleagues and track who has and hasn’t complied. Colleagues can upload data in familiar formats such as Excel, saving them time and effort."
+  - title: "Demand and cost forecasts"
     image: exampleicon.png
-    content: "Witan users have immediate access to our support team, providing you with technical and modelling help. Just click the ‘help’ button and let us know what you need help with, and one of our experts will get in touch. "
-  - title: "Open source"
+    content: "To help you understand the impact of current policies & provisions on demand on your services for the next 5 - 10 years Witan Models produce a set of baseline demand and cost forecasts."
+  - title: "Quickly run “what-if” scenarios"
     image: exampleicon.png
-    content: "The platform and the models it provides are all open source. Organisations can download and run their own version of Witan, or we can host and manage Witan for you."
-  - title: "Link to your data store"
+    content: "Use your data to quickly test out and understand the impact of different service configurations and policy decision. This enables confident decision making and the exploration of a variety of policy and service reconfiguration options."
+  - title: "Expert advice and support"
     image: exampleicon.png
-    content: "Witan is being designed to seamlessly interact with other APIs, allowing you to use Witan to run models using data from both the Witan API and any other APIs available. "
+    content: "In-app office hours support by Mastodon C’s specialist team means you’ll get the most of Witan - whether you have a technical query, need help generating insights or want to share your findings."
+
 
 pricing:
- - title: Witan Single
-   desc: Use a single pre-built model on the Witan platform and run it with your own organisation’s data. Run unlimited scenarios. Share the results internally and externally.
-   for:
-   - Departmental heads in Local Authorities who need to solve a specific problem, on a one-off or ongoing basis.
-   - Providers to Local Authorities who need a robust data-driven predictive model
-   setup-cost: from £5,000
-   monthly-cost: from £1,000
+ - title: Witan Datastore
+   desc: Get data out of silos and into work, fast, while ensuring that you stay the right side of policy, regulation and the law.
+   features:
+    - Access, permissions, and event recording
+    - Secure data access
+    - Flexible access controls
+    - Metadata tools
+    - Metadata sharing
+    - Datapacks
+    - Controlled Data Sharing
+    - In app office support
+   setup-cost: from £4,000
+   monthly-cost: from £3,500 per month
    min-term: no minimum term
- - title: Witan Strategic
-   desc: Upload internal data from across your organisation. Use our core model set of pre-built models for cities and local government. Transform your data the way you need it. Control the sharing of all the data and results.
-   for:
-   - CEOs of Local Authorities who are ready for a strategic solution to data sharing and data-driven decision-making across their organisation.
-   setup-cost: from £10,000
-   monthly-cost: from £4,000
-   min-term: 12 month minimum term
- - title: Witan Collect + Share
-   desc: Collect data from multiple local authorities or other bodies in a structured, schema-checked way. Use our core model set of pre-built models. Control the sharing of the data uploaded and the results.
-   for:
-   - CEOs and Mayors of large Cities and multi-borough regions who want to embrace data-driven decision-making, and have a need to collect data from multiple local authorities.
+ - title: Witan collect + share
+   desc: For simple collection, curation and sharing of critical data
+   features:
+   - Secure access to data
+   - Smooth data acquisition
+   - Metadata tools
+   - Check schemas and formats
+   - Metadata sharing
+   - In app support
    setup-cost: from £15,000
-   monthly-cost: from £6,000
+   monthly-cost: from £5,000 per month
    min-term: 12 month minimum term
+ - title: Witan Models
+   desc: For powerful on-demand, analysis and insights.
+   features:
+   - Sophisticated SEND and demographic models
+   - Demand and cost forecasts
+   - Rapid scenario modelling
+   - Baseline forecast updates
+   - Storage and sharing of data and visualisations
+   - In app support
+   setup-cost: from £4,000
+   monthly-cost: from £1,500
+   min-term: no minimum term
 ---
