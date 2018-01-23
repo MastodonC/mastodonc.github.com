@@ -7,7 +7,7 @@ comments: true
 categories: [data science]
 ---
 
-We know that making smarter use of data in the public sector is important to transformation and effectiveness - we’ve seen data put to work, by us and others, for purposes from [detecting fraud](https://www.cbronline.com/big-data/analytics/camden-borough-battles-fraudsters-with-ibm-4615242/) to [modelling the impact of new policies](http://www.mastodonc.com/data%20science/send/asc/witan/2017/09/05/demand-projection-send-asc.html). But how does this process happen in practice? We’ve put together an infographic that illustrates a six-stage process that is common to data projects that have impact*. *
+We know that making smarter use of data in the public sector is important to transformation and effectiveness - we’ve seen data put to work, by us and others, for purposes from [detecting fraud](https://www.cbronline.com/big-data/analytics/camden-borough-battles-fraudsters-with-ibm-4615242/) to [modelling the impact of new policies](http://www.mastodonc.com/data%20science/send/asc/witan/2017/09/05/demand-projection-send-asc.html). But how does this process happen in practice? We’ve put together an infographic that illustrates a six-stage process that is common to data projects that have impact.
 
 <!--more-->
 
@@ -19,6 +19,6 @@ We found that public sector data projects have six common features that together
 
 ![The Data Cycle](/assets/images/DataCycle.png)
 
-**Want** *a more detailed explanation of each step and a handy checklist to help you do practical work with data?*
+**Want a more detailed explanation of each step and a handy checklist to help you do practical work with data?**
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script> <script> hbspt.forms.create({ portalId: '3461032', formId: '6016e2fa-ce09-47bf-bdb7-bf1f19c2d3cc' }); </script>
