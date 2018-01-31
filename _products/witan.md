@@ -64,8 +64,8 @@ pricing:
     - Datapacks
     - Controlled Data Sharing
     - In app office support
-   setup-cost: from £4,000
-   monthly-cost: from £3,500 per month
+   setup-cost: POA
+   monthly-cost: POA
    min-term: no minimum term
  - title: Witan collect + share
    desc: For simple collection, curation and sharing of critical data
@@ -76,8 +76,8 @@ pricing:
    - Check schemas and formats
    - Metadata sharing
    - In app support
-   setup-cost: from £15,000
-   monthly-cost: from £5,000 per month
+   setup-cost: POA
+   monthly-cost: POA
    min-term: 12 month minimum term
  - title: Witan Models
    desc: For powerful on-demand, analysis and insights.
@@ -88,7 +88,7 @@ pricing:
    - Baseline forecast updates
    - Storage and sharing of data and visualisations
    - In app support
-   setup-cost: from £4,000
-   monthly-cost: from £1,500
+   setup-cost: POA
+   monthly-cost: POA
    min-term: no minimum term
 ---
