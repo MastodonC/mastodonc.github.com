@@ -18,12 +18,14 @@ The GDPR is turning the world of data on its head by taking control of personal 
 
 Here are some of the features we'll be making available for Witan Datastore customers in 2018:
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<!--[if lte IE 8]>
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
   hbspt.forms.create({
     portalId: '3461032',
     formId: '4a30f73c-53b4-4970-b6a4-4b1f072343e6',
-    css: '',
     
   });
 </script>
