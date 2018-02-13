@@ -18,6 +18,16 @@ The GDPR is turning the world of data on its head by taking control of personal 
 
 Here are some of the features we'll be making available for Witan Datastore customers in 2018:
 
+* **Audit what happens to your data with access and event recording.** Showing you've got an adequate system to manage and control private data is essential for GDPR compliance. Datastore will allow you to understand, track and report on everyone who has access to your data and where it has been used, with in-built analytics on usage and downloads.
+
+* **Share data, charts & scripts using flexible access controls.** Collaboration is often the key to getting insights from data. Datastore will allow you to share data, reports, charts, scripts and files with partners, as well as internally. When it comes to private data, this is essential for the GDPR, as private data can only be used for the express purpose an individual has given you consent for.
+
+* **Explain what's going on with data through metadata sharing.** Open up more opportunities to drive value from your data by showing what data exists, and the latest progress, while ensuring that the data itself is not shared unless with your explicit agreement.
+
+* **Make data easier to find and use with editable metadata tools.** This feature allows you to provide clear descriptions of data including structure, size, license, creator and location. You will also be able to communicate the methodological, ethical and legal uses for data.
+
+* **Share ideas, analysis and insights using "datapacks".** This is our way of making it easy to bundle up and share what you need when you want to present your analysis and modelling outputs. Scripts, code, charts, input, output and reports can all be included in a datapack to present analysis and modelling. This curation allows a team to share the right versions of data and scripts, along with the conclusions they reach with that data, making their work more transparent and making it easier to reconstruct or check later if needed.
+
 <!--[if lte IE 8]>
   <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
   <![endif]-->
@@ -30,17 +40,6 @@ Here are some of the features we'll be making available for Witan Datastore cust
     
   });
 </script>
-
-
-* **Audit what happens to your data with access and event recording.** Showing you've got an adequate system to manage and control private data is essential for GDPR compliance. Datastore will allow you to understand, track and report on everyone who has access to your data and where it has been used, with in-built analytics on usage and downloads.
-
-* **Share data, charts & scripts using flexible access controls.** Collaboration is often the key to getting insights from data. Datastore will allow you to share data, reports, charts, scripts and files with partners, as well as internally. When it comes to private data, this is essential for the GDPR, as private data can only be used for the express purpose an individual has given you consent for.
-
-* **Explain what's going on with data through metadata sharing.** Open up more opportunities to drive value from your data by showing what data exists, and the latest progress, while ensuring that the data itself is not shared unless with your explicit agreement.
-
-* **Make data easier to find and use with editable metadata tools.** This feature allows you to provide clear descriptions of data including structure, size, license, creator and location. You will also be able to communicate the methodological, ethical and legal uses for data.
-
-* **Share ideas, analysis and insights using "datapacks".** This is our way of making it easy to bundle up and share what you need when you want to present your analysis and modelling outputs. Scripts, code, charts, input, output and reports can all be included in a datapack to present analysis and modelling. This curation allows a team to share the right versions of data and scripts, along with the conclusions they reach with that data, making their work more transparent and making it easier to reconstruct or check later if needed.
 
 ## Using models to generate new insights into critical public sector services
 
