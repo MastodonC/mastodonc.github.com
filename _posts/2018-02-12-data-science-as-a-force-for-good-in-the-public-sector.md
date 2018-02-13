@@ -41,27 +41,34 @@ Here are some of the features we'll be making available for Witan Datastore cust
   });
 </script>
 
-## Using models to generate new insights into critical public sector services
-
-Understanding demand for public services and making decisions about provision is a fiddly process. Getting it wrong can mean budgets get blown and people don't get the support they urgently need.
+* **Using models to generate new insights into critical public sector services.** Understanding demand for public services and making decisions about provision is a fiddly process. Getting it wrong can mean budgets get blown and people don't get the support they urgently need.
 
 Our first demographic model was built in partnership with London boroughs in 2016. In 2017 we launched the first iteration of our SEND model - we focused on building a tool that would simplify the complex process of service and budget planning for children with special educational needs.
 
 In 2018 we're adding further models to our decision-maker toolkit and further developing our existing models. Here's an overview of what we're building.
 
-### A more comprehensive SEND demand and policy model
+* **A more comprehensive SEND demand and policy model.** We're currently enhancing the model to deal with the more complex scenarios involved in SEND planning, including out of borough placements.
 
-We're currently enhancing the model to deal with the more complex scenarios involved in SEND planning, including out of borough placements.
-
-### New models for Children's Social Care and Adult Social Care.
-
-We're focusing on social care for three reasons. The first is the essential role social care plays in our communities. In 2016-2017, in England, our local authorities received 1.8m requests for adult care support. That's 5000 people a day wanting help. This brings us to the second motivation for looking at the area, the cost. In 2016-17 local authorities spent [£17.5 billion on Adult Social care](https://digital.nhs.uk/catalogue/PUB30121) and around [£11 billion on Children's services](https://www.theguardian.com/society/2017/may/11/childrens-social-care-services-set-to-reach-breaking-point). Together this expenditure accounts for a significant proportion of local authority budgets, which is what makes predicting demand, and planning the most effective ways to meet that demand, so important. Our new models will enable decision makers to rapidly test out different demand scenarios, then model the impact of different service provision strategies and the impact of new policies.
+* **New models for Children's Social Care and Adult Social Care.** We're focusing on social care for three reasons. The first is the essential role social care plays in our communities. In 2016-2017, in England, our local authorities received 1.8m requests for adult care support. That's 5000 people a day wanting help. This brings us to the second motivation for looking at the area, the cost. In 2016-17 local authorities spent [£17.5 billion on Adult Social care](https://digital.nhs.uk/catalogue/PUB30121) and around [£11 billion on Children's services](https://www.theguardian.com/society/2017/may/11/childrens-social-care-services-set-to-reach-breaking-point). Together this expenditure accounts for a significant proportion of local authority budgets, which is what makes predicting demand, and planning the most effective ways to meet that demand, so important. Our new models will enable decision makers to rapidly test out different demand scenarios, then model the impact of different service provision strategies and the impact of new policies.
 
 It's an area where small process and timing adjustments make huge differences to budgets. Which is why being able to compare different options is such an appealing prospect for the people in charge.
 
 "data-informed decisions are decisions that can be trusted, decisions that will stand-up to scrutiny."
 
 The final reason that data science can help in this area is its complexity. Accurately modelling the impact of subtle shifts in demand and changes to service delivery means gathering large datasets together, performing complex analysis and sharing results. By hosting models, data and outputs on our Witan platform we make the whole process more efficient and more secure, giving decision makers the opportunity to test out new ideas. Perhaps more importantly data-informed decisions are decisions that can be trusted and will stand up to scrutiny, allowing leaders to be more confident in their actions.
+
+<!--[if lte IE 8]>
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: '3461032',
+    formId: 'e20a1c59-3707-4eff-a5cb-8c9409698f7a',
+    css: '',
+    
+  });
+</script>
 
 ## Making data collection and sharing fast, efficient and secure
 
@@ -74,6 +81,19 @@ In the next few months we'll be launching Collect+Share, a tool that will make g
 * **Get the data you need, fast, in the format you need with smooth data acquisition.** You'll be able to easily request data from multiple colleagues and external partners. Then track who has and hasn't complied. People can upload data in familiar formats like Excel, saving them time and effort.
 
 * **Be sure that the data provided to you is ready to use with automatic schema and format checking.** This is an important feature, as you'll get automatic checking of the format of submitted files, followed by reports of errors to both the uploader and requester. This will speed up the delivery of correct data to where it's needed and reduce the communications overhead of working to fix files or acquire accurate data.
+
+<!--[if lte IE 8]>
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: '3461032',
+    formId: '7577500d-ddd5-4fce-bef4-631feaf94faf',
+    css: '',
+    
+  });
+</script>
 
 ## What are we missing?
 
