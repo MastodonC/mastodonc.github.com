@@ -30,6 +30,7 @@ Here are some of the features we'll be making available for Witan Datastore cust
   });
 </script>
 
+
 * **Audit what happens to your data with access and event recording.** Showing you've got an adequate system to manage and control private data is essential for GDPR compliance. Datastore will allow you to understand, track and report on everyone who has access to your data and where it has been used, with in-built analytics on usage and downloads.
 
 * **Share data, charts & scripts using flexible access controls.** Collaboration is often the key to getting insights from data. Datastore will allow you to share data, reports, charts, scripts and files with partners, as well as internally. When it comes to private data, this is essential for the GDPR, as private data can only be used for the express purpose an individual has given you consent for.
