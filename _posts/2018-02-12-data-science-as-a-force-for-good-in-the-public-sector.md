@@ -18,7 +18,15 @@ The GDPR is turning the world of data on its head by taking control of personal 
 
 Here are some of the features we'll be making available for Witan Datastore customers in 2018:
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script> <script> hbspt.forms.create({ portalId: '3461032', formId: '4a30f73c-53b4-4970-b6a4-4b1f072343e6' }); </script>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: '3461032',
+    formId: '4a30f73c-53b4-4970-b6a4-4b1f072343e6',
+    css: '',
+    
+  });
+</script>
 
 * **Audit what happens to your data with access and event recording.** Showing you've got an adequate system to manage and control private data is essential for GDPR compliance. Datastore will allow you to understand, track and report on everyone who has access to your data and where it has been used, with in-built analytics on usage and downloads.
 
