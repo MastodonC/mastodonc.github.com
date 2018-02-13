@@ -41,7 +41,9 @@ Here are some of the features we'll be making available for Witan Datastore cust
   });
 </script>
 
-* **Using models to generate new insights into critical public sector services.** Understanding demand for public services and making decisions about provision is a fiddly process. Getting it wrong can mean budgets get blown and people don't get the support they urgently need.
+## Using models to generate new insights into critical public sector services. 
+
+Understanding demand for public services and making decisions about provision is a fiddly process. Getting it wrong can mean budgets get blown and people don't get the support they urgently need.
 
 Our first demographic model was built in partnership with London boroughs in 2016. In 2017 we launched the first iteration of our SEND model - we focused on building a tool that would simplify the complex process of service and budget planning for children with special educational needs.
 
@@ -53,7 +55,7 @@ In 2018 we're adding further models to our decision-maker toolkit and further de
 
 It's an area where small process and timing adjustments make huge differences to budgets. Which is why being able to compare different options is such an appealing prospect for the people in charge.
 
-"data-informed decisions are decisions that can be trusted, decisions that will stand-up to scrutiny."
+**"data-informed decisions are decisions that can be trusted, decisions that will stand-up to scrutiny."**
 
 The final reason that data science can help in this area is its complexity. Accurately modelling the impact of subtle shifts in demand and changes to service delivery means gathering large datasets together, performing complex analysis and sharing results. By hosting models, data and outputs on our Witan platform we make the whole process more efficient and more secure, giving decision makers the opportunity to test out new ideas. Perhaps more importantly data-informed decisions are decisions that can be trusted and will stand up to scrutiny, allowing leaders to be more confident in their actions.
 
