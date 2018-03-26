@@ -55,6 +55,7 @@ features:
 pricing:
  - title: Witan Datastore
    desc: Get data out of silos and into work, fast, while ensuring that you stay the right side of policy, regulation and the law.
+   landing-page: download-the-witan-datastore-features-guide-0
    features:
     - Access, permissions, and event recording
     - Secure data access
@@ -76,11 +77,13 @@ pricing:
    - Check schemas and formats
    - Metadata sharing
    - In app support
+   landing-page: download-the-witan-collect-and-share-features-guide-1
    setup-cost: POA
    monthly-cost: POA
    min-term: 12 month minimum term
  - title: Witan Models
    desc: For powerful on-demand, analysis and insights.
+   landing-page: download-witan-models-features-guide-0
    features:
    - Sophisticated SEND and demographic models
    - Demand and cost forecasts
