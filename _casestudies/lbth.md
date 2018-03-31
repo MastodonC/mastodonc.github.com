@@ -19,9 +19,9 @@ Terry Bryan Head of Pupil Services</p>
 
 </aside>
 
-High needs funding is coming under increasing pressure, and difficult choices need to be made. For example, whether to invest capital in expanding maintained specialist provision to accommodate more pupils in borough, and thereby reduce the need for more costly out-of-borough and independent provision. The demands on funding, the complexity of the domain and the huge impact of decisions together mean that LBTH has to make the right strategic and financial choices, and be confident in the strategy they select.
+High needs funding is coming under increasing pressure, and difficult choices need to be made. For example, whether to invest capital in expanding maintained specialist provision to accommodate more pupils in borough, and thereby reduce the need for more costly out-of-borough and independent provision. 
 
-These strategic and financial choices need to be made in light of:
+The demands on funding, the complexity of the domain and the huge impact of decisions together mean that LBTH has to make the right strategic and financial choices, and be confident in the strategy they select. These strategic and financial choices need to be made in light of:
 
 * Capacity. Do the various schools available to LBTH pupils have enough capacity to serve their future SEND population’s individualised needs?
 
