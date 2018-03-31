@@ -11,13 +11,13 @@ download: casestudy.pdf
 
 London Borough of Tower Hamlets (LBTH) is one of the fastest growing local authorities in the UK. The borough has one of the highest levels of pupils with statements or Education Health & Care (EHC) Plans in the country, and it is a considerable challenge to plan for future school places and Special Educational Needs & Disability (SEND) service needs.
 
-High needs funding is coming under increasing pressure, and difficult choices need to be made. For example, whether to invest capital in expanding maintained specialist provision to accommodate more pupils in borough, and thereby reduce the need for more costly out-of-borough and independent provision. The demands on funding, the complexity of the domain and the huge impact of decisions together mean that LBTH has to make the right strategic and financial choices, and be confident in the strategy they select.
-
 <aside>
 
   <p> "The working relationship with Mastodon C has been very positive and productive.  It’s helped us understand a lot about data in our organisation and how we can make the best use of it. Terry Bryan Head of Pupil Services"</p>
 
 </aside>
+
+High needs funding is coming under increasing pressure, and difficult choices need to be made. For example, whether to invest capital in expanding maintained specialist provision to accommodate more pupils in borough, and thereby reduce the need for more costly out-of-borough and independent provision. The demands on funding, the complexity of the domain and the huge impact of decisions together mean that LBTH has to make the right strategic and financial choices, and be confident in the strategy they select.
 
 These strategic and financial choices need to be made in light of:
 
