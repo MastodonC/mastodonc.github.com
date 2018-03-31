@@ -13,7 +13,9 @@ London Borough of Tower Hamlets (LBTH) is one of the fastest growing local autho
 
 <aside>
 
-  <p> "The working relationship with Mastodon C has been very positive and productive.  It’s helped us understand a lot about data in our organisation and how we can make the best use of it. Terry Bryan Head of Pupil Services"</p>
+  <p> "The working relationship with Mastodon C has been very positive and productive.  It’s helped us understand a lot about data in our organisation and how we can make the best use of it." 
+  
+Terry Bryan Head of Pupil Services</p>
 
 </aside>
 
