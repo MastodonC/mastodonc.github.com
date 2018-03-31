@@ -5,7 +5,7 @@ title: "Making Critical Decisions with Witan"
 subtitle:  "London Borough of Tower Hamlets"
 lowdown: "When critical choices needed to be made about the way special educational needs would be supported in a fast-changing community, Tower Hamlets’ Head of Pupil Services turned to Witan Models to rapidly model different scenarios and make some big decisions, with confidence."
 logo: lb-tower-hamlets.png
-bgimage: Backyard_Market_Tower_Hamlets.jpg
+bgimage: Tower_Hamlets_London.jpg
 download: casestudy.pdf
 ---
 
