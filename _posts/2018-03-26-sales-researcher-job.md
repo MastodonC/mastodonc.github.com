@@ -1,12 +1,12 @@
 ---
 layout: post
-title: We're Hiring! Sales Researcher
+title: We're Hiring! Sales Development Representative
 date: 2018-03-26
 author: fran
 comments: true
 categories: [hiring]
 ---
-We’re looking for a Sales Representative to help us attract, educate and win clients for our new city data tool, [Witan](http://www.mastodonc.com/products/witan/).
+We’re looking for a Sales Development Representative to help us attract, educate and win clients for our new city data tool, [Witan](http://www.mastodonc.com/products/witan/).
 <!--more-->
 
 ## Who we are
