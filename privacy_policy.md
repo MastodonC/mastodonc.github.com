@@ -1,6 +1,6 @@
 ---
 layout: content-feature
-title: Privacy Policy
+title: Privacy Policy for Witan Users
 lowdown: "Mastodon C’s Privacy Policy for Witan users"
 bgimage: bg-consultancy.jpg
 permalink: /privacy_policy/
