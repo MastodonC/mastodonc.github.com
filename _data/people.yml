@@ -19,13 +19,13 @@ bruce:
       He loves using GNU emacs and finding volunteers for the London Clojurians.
 jason:
     name: Jason Bell
-    position: Data Engineer
+    position: Machine Learning Engineer
     email: jason@mastodonc.com
-    twitter:
+    twitter: http://twitter.com/jasonbelldata
     image: jason-bw.jpg
     profile: |
-      Jason is author of <i>Machine Learning: Hands On For Developers and Technical Professionals</i> and specialises in high volume data workflows and pipelines.<p>
-      He has played the Chapman Stick since 1993 and has played bass guitar for over thirty years, he also writes about technology, data and automating processes.
+      Jason is author of <i>Machine Learning: Hands On For Developers and Technical Professionals</i> and was previously section editor of Java Developer's Journal. He specialises in large scale data pipelines, machine learning, and deep learning.<p>
+      Since 1993 Jason has played the Chapman Stick, he also writes about and teaches technology, data, and automation. 
 elise:
     name: Elise Huard
     position: Data Engineer
