@@ -8,7 +8,7 @@ permalink: /data_science/
 weight: 1
 ---
 ## Our consultancy services
-We work with our clients to help them get off the ground with customised strategy and prototypes. We then deliver and manage live solutions on our Kixi platform.
+We work with our clients to help them get off the ground with customised strategy and prototypes.
 
 ### Practical data strategy
 Many clients start work with us through a brief strategy engagement, which helps them to explore and understand the business opportunities in their data, and to scope what types of data science or data technology would be relevant to them.
