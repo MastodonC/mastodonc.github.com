@@ -19,7 +19,6 @@ weight: 5
   <p>
   Email: <a href="mailto:theteam@mastodonc.com">theteam@mastodonc.com</a><br />
   Phone: 0203 397 8446<br />
-  Twitter: <a href="https://twitter.com/MastodonC">@MastodonC</a>
   </p>
   </div>
 </div>
