@@ -1,5 +1,5 @@
 ---
-layout: send-model
+layout: send_model
 title: SEND demand analysis and modelling
 subtitle: "Understand the drivers of SEND population and cost to drive the right changes."
 overview: 
