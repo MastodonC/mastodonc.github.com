@@ -7,12 +7,11 @@ weight: 5
 
 <div class="columns">
   <div class="columns-col50">
-  <h2>Address</h2>
+  <h2>Registered Address</h2>
   <p>
-  3Space<br />
-  Keeton's Road, Corner Keeton's & Collett<br />
+  10 Portfleet Place De Beauvoir Road<br />
   London<br />
-  SE16 4DB<br />
+  N1 5SZ<br />
   </p>
   </div>
   <div class="columns-col50">
