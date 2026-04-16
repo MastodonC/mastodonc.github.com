@@ -31,7 +31,7 @@ The demands on funding, the complexity of the domain and the huge impact of deci
 
 ### Using Witan to make data-informed strategic decisions
 
-Tower Hamlets’ head of Pupil Services, Terry Bryan, engaged Mastodon C to provide detailed projections and scenario analyses on an ongoing basis, using the [Witan Models](http://www.mastodonc.com/products/witan/ ) SEND module , to support LBTHs thinking on the key strategic issues.
+Tower Hamlets’ head of Pupil Services, Terry Bryan, engaged Mastodon C to provide detailed projections and scenario analyses on an ongoing basis, using the [Witan Models](/products/witan/ ) SEND module , to support LBTHs thinking on the key strategic issues.
 
 Lisa Stidle, Research Officer at LBTH explains why Witan Models was the solution the team selected, "the advantage of Mastodon C’s model is that they can do future scenario modelling. So we can understand what the situation would be if we carried on as we always had in the past. And, if we changed something about our own provision, or a policy changed, what impact that would that have on the number of people we’re seeing with SEND needs and also the impact it would have on our budgets".
 
@@ -39,7 +39,7 @@ Close collaboration between the LBTH team, Mastodon C and other stakeholders hel
 
 ### Trusted and Transparent Decisions
 
-At the end of the  demand projection and policy analysis process[ Witan Models](http://www.mastodonc.com/products/witan/) provided the team with the robust projections they needed, based on the latest available data. This allowed LBTH to make, with confidence, big financial decisions such as investments in expanding special schools. These decisions are backed up by comprehensive data and a rigorously tested analysis tool, which helps reassure Members and the public about the choices the LBTH team made.
+At the end of the  demand projection and policy analysis process [Witan Models](/products/witan/) provided the team with the robust projections they needed, based on the latest available data. This allowed LBTH to make, with confidence, big financial decisions such as investments in expanding special schools. These decisions are backed up by comprehensive data and a rigorously tested analysis tool, which helps reassure Members and the public about the choices the LBTH team made.
 
 Terry believes this to be one of the key benefits of working with Mastodon C "One of the important things we found is that we’ve been given assurance. Assurance about the quality of the systems and services. So we are confident we’re dealing with highly professional, honest, organised people - people who can present information in a clear and concise way and can help us to present our data and it’s analysis to our services, and other members of our organisation with an interest in this work, in a way that they feel is helpful, supportive and part of a coherent strategic approach"
 
