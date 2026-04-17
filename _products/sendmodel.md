@@ -1,16 +1,19 @@
 ---
-layout: witan
+layout: kixi
 title: "SEND demand analysis and modelling"
 subtitle: "Understand the drivers of SEND population and cost to drive the right changes."
-overview: 
-"Mastodon C’s SEND model has been developed for department heads and intelligence professionals who need to accurately plan future special educational needs and disability services (SEND).  Together, the SEND model and our support services can provide them with higher confidence levels and greater projection accuracy, allowing them to make the right decisions for the future, by exploring multiple possible strategies and scenarios.
+download: product-witan.pdf
+casestudy:
+  - lbth
+moreclients:
+  - lbth
+  - nhs
+  - defra
+overview: "Mastodon C’s SEND model has been developed for department heads and intelligence professionals who need to accurately plan future special educational needs and disability services (SEND).  Together, the SEND model and our support services can provide them with higher confidence levels and greater projection accuracy, allowing them to make the right decisions for the future, by exploring multiple possible strategies and scenarios.
 <br /><br />
 The model creates projections by academic year, need and placement type, and we can predict the total future SEND population of an authority to over 99% accuracy. This is achieved probabilistically, by learning about what has happened in the past and running thousands of simulations of possible futures, based on your local offer and need profile, and your own costs. This type of modelling is time consuming, complex, and requires extensive mathematical expertise to develop, making it economically and practically infeasible for most authorities to do in-house. As public sector data science specialists, we have been able to develop a robust and repeatable mathematical model, that helps to tackle these significant challenges and provide the confidence that local authorities require to support strategic planning and organisational decision making, where important questions need to be answered based on limited historical data.
 <br /><br />
-Read here about the London Borough of Tower Hamlets’ experience of working with us."
-
-strategy support:
-We recognise that even deciding which scenarios you want us to model can be a complex challenge, especially if you are dealing with competing operational priorities alongside longer term strategy development. You may want further support or advice in order to reset your strategic development in the light of the scenario analysis. In this case, we can bring in our SEND interim leadership partners, who have extensive strategic and operational experience of developing and improving SEND services and outcomes. They can work with you to help you both develop your broader strategy and plans, and decide what futures you would like us to test and project.
+Read [here](/casestudies/lbth/) about the London Borough of Tower Hamlets’ experience of working with us."
 
 benefits:
   - title: "discover the impact of new send strategies"
@@ -49,6 +52,3 @@ features:
     image: exampleicon.png
     content: "Understand how you are performing against your statistical and other neighbours in your SEND system and SEND costs."
 ---
-
-
-
