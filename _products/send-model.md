@@ -1,6 +1,6 @@
 ---
 layout: witan
-title: "SEND demand analysis and modelling"
+title: "SEND Analysis and Modelling"
 subtitle: "Understand the drivers of SEND population and cost to drive the right changes."
 download: product-witan.pdf
 casestudy:
@@ -13,7 +13,7 @@ overview: "Mastodon C’s SEND model has been developed for department heads and
 <br /><br />
 The model creates projections by academic year, need and placement type, and we can predict the total future SEND population of an authority to over 99% accuracy. This is achieved probabilistically, by learning about what has happened in the past and running thousands of simulations of possible futures, based on your local offer and need profile, and your own costs. This type of modelling is time consuming, complex, and requires extensive mathematical expertise to develop, making it economically and practically infeasible for most authorities to do in-house. As public sector data science specialists, we have been able to develop a robust and repeatable mathematical model, that helps to tackle these significant challenges and provide the confidence that local authorities require to support strategic planning and organisational decision making, where important questions need to be answered based on limited historical data.
 <br /><br />
-Read [here](/casestudies/lbth/) about the London Borough of Tower Hamlets’ experience of working with us."
+Read <a href=\"/casestudies/lbth/\">here</a> about the London Borough of Tower Hamlets’ experience of working with us."
 
 benefits:
   - title: "discover the impact of new send strategies"
