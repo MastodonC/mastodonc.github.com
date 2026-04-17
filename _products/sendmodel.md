@@ -1,5 +1,5 @@
 ---
-layout: kixi
+layout: witan
 title: "SEND demand analysis and modelling"
 subtitle: "Understand the drivers of SEND population and cost to drive the right changes."
 download: product-witan.pdf
@@ -41,7 +41,7 @@ features:
     content: "Get a detailed view of how your SEND system has been working in the past. Dig into ways of measuring school inclusion."
   - title: "Baseline projections"
     image: exampleicon.png
-    content: "We provide "baseline" demand and cost projections, as a set of detailed spreadsheets and visualisations, showing your expected 10 year picture if things stay on their current course - giving a realistic picture of where you are right now."
+    content: "We provide \"baseline\" demand and cost projections, as a set of detailed spreadsheets and visualisations, showing your expected 10 year picture if things stay on their current course - giving a realistic picture of where you are right now."
   - title: "3 additional work packages"
     image: exampleicon.png
     content: "3 additional pieces of work (work packages) which we would mutually agree upon and those would include areas of interest that you’d want us to look into and model."
