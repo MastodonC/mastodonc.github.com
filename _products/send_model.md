@@ -1,6 +1,6 @@
 ---
 layout: witan
-title: SEND demand analysis and modelling
+title: "SEND demand analysis and modelling"
 subtitle: "Understand the drivers of SEND population and cost to drive the right changes."
 overview: 
 Mastodon C’s SEND model has been developed for department heads and intelligence professionals who need to accurately plan future special educational needs and disability services (SEND).  Together, the SEND model and our support services can provide them with higher confidence levels and greater projection accuracy, allowing them to make the right decisions for the future, by exploring multiple possible strategies and scenarios.
